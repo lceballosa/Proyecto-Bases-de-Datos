@@ -143,6 +143,7 @@ class interfaz:
 #Funcion consulta caballo:
     def caballo(self):
         self.clean1()
+        #prueb git
         self.wind.geometry("600x600")
         fontStyle = tkFont.Font(family="Lucida Grande", size=10)
         self.wind.configure(background="blue")
