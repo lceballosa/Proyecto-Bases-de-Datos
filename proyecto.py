@@ -144,6 +144,7 @@ class interfaz:
     def caballo(self):
         self.clean1()
         #prueb git
+        #Prueba Diego
         self.wind.geometry("600x600")
         fontStyle = tkFont.Font(family="Lucida Grande", size=10)
         self.wind.configure(background="blue")
